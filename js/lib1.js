@@ -1,1 +1,4 @@
-$('body').html('hola mundo 1');
+$(document).ready(function() {
+    $('#myid').html('hola mundo 1');
+
+});
